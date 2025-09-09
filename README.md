@@ -1,4 +1,4 @@
-Perfect 🚀 Here’s a polished **GitHub-ready write-up** of your exploitation path. I’ll structure it cleanly with commands, outputs, and explanations so it’s easy to follow for CTF/THM notes.
+
 
 ---
 
